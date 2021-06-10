@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Aleksandra, but feel free to call me Ola. :)  <br>
+I'm a 21-year-old IT student at Wrocław University of Science and Technology in Poland.
 
 <!--
 **ATlalka/ATlalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
