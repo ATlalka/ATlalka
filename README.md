@@ -1,12 +1,14 @@
 ### Cześć 👋
 Mam na imię Aleksandra, ale możesz mówić mi Ola. :)  <br>
-Mam 21 lat i studiuję Informatykę Techniczną na [Politechnice Wrocławskiej](https://pwr.edu.pl/).
+Mam 21 lat i studiuję Informatykę Techniczną na [Politechnice Wrocławskiej](https://pwr.edu.pl/). <br>
+:mortar_board: Aktualnie uczę się C# i pracuję nad własnymi projektami w Javie. :mortar_board:
 
 ----------------------------------------------------------------------------------------------------------------
 
 ### Hi there 👋
 My name is Aleksandra, but feel free to call me Ola. :)  <br>
-I'm a 21-year-old IT student at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/) in Poland.
+I'm a 21-year-old IT student at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/) in Poland. <br>
+:mortar_board: I’m currently learning C# and working on my own projects in Java. :mortar_board:
 
 <!--
 **ATlalka/ATlalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
