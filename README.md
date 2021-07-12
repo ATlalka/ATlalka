@@ -2,6 +2,8 @@
 Mam na imię Aleksandra, ale możesz mówić mi Ola. :)  <br>
 Mam 21 lat i studiuję Informatykę Techniczną na [Politechnice Wrocławskiej](https://pwr.edu.pl/).
 
+----------------------------------------------------------------------------------------------------------------
+
 ### Hi there 👋
 My name is Aleksandra, but feel free to call me Ola. :)  <br>
 I'm a 21-year-old IT student at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/) in Poland.
